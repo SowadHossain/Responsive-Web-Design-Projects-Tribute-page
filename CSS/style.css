@@ -1,0 +1,23 @@
+#title{
+    font-size: 250%;
+  }
+  .center{
+    text-align:center;
+  }
+  
+  #image{
+    max-width: 100%;
+    height: auto;
+    display:block;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  #main{
+    background: #bdbdbd;
+  }
+  #img-div{
+    background: #545454;
+    color:#a6a6a6;
+  }
+  
+  
